@@ -3,7 +3,7 @@
   <a href="https://aesthetic-croquembouche-353ceb.netlify.app" target="_blank">https://aesthetic-croquembouche-353ceb.netlify.app</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="./Images/readme.jpeg" />
 </div>
 
 <br/>
